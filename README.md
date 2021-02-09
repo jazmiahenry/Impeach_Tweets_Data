@@ -4,7 +4,7 @@ February 9, 2021 marks the first day of the Second Impeachment Trial of former P
 This repository features a dataset of 100,000 tweets taken on the morning of Day 1 of the Impeachment trial in four different forms:
 
     1. Raw Text Data
-    2. Unleaned CSV Data
+    2. Uncleaned CSV Data
     3. Cleaned CSV Data
     4. Cleaned and Sentiment Tagged CSV Data
 
