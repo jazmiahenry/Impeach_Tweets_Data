@@ -12,7 +12,7 @@ This repository features a dataset of 100,000 tweets taken on the morning of Day
 
 Data was collected by Tweet Streaming using Stream Listener from the Tweepy PyPi package coupled with Twitter Developer API access. Source Code for Tweet Streaming is also included in this repository (botimpeach.py).
 
-### Unleaned CSV Data (Impeach_tweets.csv.zip)
+### Uncleaned CSV Data (Impeach_tweets.csv.zip)
 
 Once data was collected, I transformed the resulting raw txt file of Tweet Data into a Pandas DataFrame with the following columns of information:
 
