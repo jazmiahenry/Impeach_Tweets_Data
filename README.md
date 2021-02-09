@@ -10,7 +10,7 @@ This repository features a dataset of 100,000 tweets taken on the morning of Day
 
 ### Raw Text (Impeach_tweets.txt.zip)
 
-Data was collected by Tweet Streaming using Stream Listener from the Tweepy PyPi package coupled with Twitter Developer API access. Source Code for Tweet Streaming is also included in this repository.
+Data was collected by Tweet Streaming using Stream Listener from the Tweepy PyPi package coupled with Twitter Developer API access. Source Code for Tweet Streaming is also included in this repository (botimpeach.py).
 
 ### Unleaned CSV Data (Impeach_tweets.csv.zip)
 
